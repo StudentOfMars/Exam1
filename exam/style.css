@@ -1,0 +1,94 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: gray;
+}
+
+.block{
+    background-color: white;
+    border-radius: 5px ;
+    padding: 10px;
+    margin: -3px;
+    border-radius: 3px;
+}
+
+h1{
+    border: 3px solid red;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(3, 129, 255);
+    background-color: skyblue;
+}
+
+em{
+    color: red;
+}
+
+h2{
+    color: green;
+}
+
+h3{
+    border: 1px solid yellow;
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+img{
+    margin-left: 30px;
+    width: 700px;
+    height: 400px;
+}
+
+iframe{
+    width: 97%;
+    margin-left: 20px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+h4{
+    color: green;
+}
+
+textarea{
+    width: 80%;
+}
+
+button{
+    background-color: skyblue;
+    outline: none;
+    border: none;
+    width: 300px;
+    height: 40px;
+    font-size: 25px;
+    color: white;
+}
+
+table th, td{
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    width: 80%;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+.black{
+    background-color: black;
+}
